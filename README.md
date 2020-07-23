@@ -1,2 +1,2 @@
 # Countdown_app
-Created with CodeSandbox
+A simple countdown app build with React
